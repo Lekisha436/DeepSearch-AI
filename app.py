@@ -6,9 +6,6 @@ import torch
 import open_clip
 import os
 
-# -------------------------------
-# Page Configuration
-# -------------------------------
 st.set_page_config(
     page_title="DeepSearch AI",
     page_icon="🔍",
