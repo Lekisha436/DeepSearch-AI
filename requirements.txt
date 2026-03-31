@@ -4,4 +4,8 @@ pillow
 numpy
 torch
 torchvision
+<<<<<<< HEAD
 transformers
+=======
+transformers
+>>>>>>> 67f107f (Initial commit)
